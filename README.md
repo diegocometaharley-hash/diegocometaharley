@@ -2,7 +2,7 @@
 # diegoengenheirohobby
 
 
-**`engenheiro de software`**
+**`Engenheiro de Software`**
 
 Me chamo Diego Fernandes Candinho, tenho 34 anos e sou natural de Criciúma. Concluí o ensino médio na Escola Dom Marcelino. Atualmente, estou cursando Engenharia de Software na Universidade Unifatecie.
 

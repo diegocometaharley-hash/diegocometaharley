@@ -42,16 +42,15 @@ Em construção...
 
 ---
 
-## 🎯 Goals
-- Get my first job in tech 💼  
+## 🎯 Goals 
 - Build impactful real-world projects 🚀  
 - Keep learning and evolving 📚  
 
 ---
 
 ## 📫 Contact
-📧 Email: seuemail@email.com  
-💼 LinkedIn: seu-linkedin-aqui  
+📧 Email: diego.engenheiro.br@gmail.com
+💼 LinkedIn:www.linkedin.com/in/diego-fernandes-candinho-9ba61037a
 
 ---
 

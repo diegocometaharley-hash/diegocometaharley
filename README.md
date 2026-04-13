@@ -1,129 +1,74 @@
-## olá eu sou o Diego !!
-# Diego F.C.
+# 👋 Hi, I'm Diego Fernandes
 
-
-**`Engenheiro de Software`**
-
-Me chamo Diego Fernandes Candinho, tenho 34 anos e sou natural de Criciúma. Concluí o ensino médio na Escola Dom Marcelino. Atualmente, estou cursando Engenharia de Software na Universidade Unifatecie.
-
+💻 Developer in progress  
+🚀 Focused on building real-world solutions  
+🌍 Open to remote opportunities  
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 About Me
+I'm passionate about technology and constantly improving my skills in development.  
+Currently focused on building practical projects and entering the tech industry.
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+---
 
-<br/>
-<br/>
+## 🧠 Skills & Technologies
 
+### 💻 Front-End
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+
+### 📊 Others
+![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel)
+
+---
+
+## 📊 GitHub Stats
+![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegocometaharley-hash&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegocometaharley-hash&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 E-commerce Website
+🔗 https://seu-link-aqui  
+Online store with modern design and payment integration (Pix/Stripe)
+
+### 🤖 Automation System
+🔗 https://seu-link-aqui  
+Tool to automate tasks and improve productivity
+
+### 🌐 Professional Landing Page
+🔗 https://seu-link-aqui  
+High-conversion landing page inspired by real businesses
+
+---
+
+## 🎯 Goals
+- Get my first job in tech 💼  
+- Build impactful real-world projects 🚀  
+- Keep learning and evolving 📚  
+
+---
+
+## 📫 Contact
+📧 Email: seuemail@email.com  
+💼 LinkedIn: seu-linkedin-aqui  
+
+---
+
+## 🌎 Languages
+- Portuguese (Native)  
+- English (Basic/Intermediate)  
+
+---
+
+⭐ Thanks for visiting my profile!

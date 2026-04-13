@@ -38,17 +38,7 @@ Currently focused on building practical projects and entering the tech industry.
 
 ## 🚀 Featured Projects
 
-### 🛒 E-commerce Website
-🔗 https://seu-link-aqui  
-Online store with modern design and payment integration (Pix/Stripe)
-
-### 🤖 Automation System
-🔗 https://seu-link-aqui  
-Tool to automate tasks and improve productivity
-
-### 🌐 Professional Landing Page
-🔗 https://seu-link-aqui  
-High-conversion landing page inspired by real businesses
+Em construção...
 
 ---
 
